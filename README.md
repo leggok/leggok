@@ -1,19 +1,26 @@
-### Hi there 👋, my name is Dmytro
-#### I'm a Front-end developer trying my hand at back-end 🤫
-I'm a front-end developer specializing in Vue, Nuxt, and WordPress, with experience in Node.js and MongoDB. I build responsive, SEO-optimized websites, custom admin dashboards, and data-driven platforms with advanced user management systems. Additionally, I handle complex API integrations. This is my personal GitHub account where I explore projects that spark my curiosity.
+### Hi there 👋, I'm Dmytro  
+#### A Front-end Developer Exploring the Back-end World 🤫  
+I'm a front-end developer specializing in Vue, Nuxt, and WordPress, with experience in Node.js and MongoDB. I build responsive, SEO-optimized websites, custom admin dashboards, and data-driven platforms with advanced user management systems. Additionally, I handle complex API integrations. This is my personal GitHub account where I dive into projects that inspire me and spark my curiosity.
 
-Skills: Vue.js | Nuxt.js | javascript | Node.js + Express.js
+#### **Skills**  
+Vue.js | Nuxt.js | JavaScript | Node.js + Express.js
 
-- 🔭 I’m currently working on I’m currently working on a personal project using Vue.js and Nuxt.js on the client side, with Node.js, Express.js, MongoDB, and various APIs on the server side. 
-- 🌱 I’m currently learning TypeScript and Node.js in more depth 
-- 📫 How to reach me: dmytro.pal.work@gmail.com 
+- 🔭 **Currently working on**: A personal project with Vue.js and Nuxt.js on the client side, and Node.js, Express.js, MongoDB, and APIs on the server side.  
+- 🌱 **Currently learning**: Deepening my understanding of TypeScript and enhancing my Node.js expertise.  
+- 📫 **How to reach me**: [dmytro.pal.work@gmail.com](mailto:dmytro.pal.work@gmail.com)
 
+#### **Find me on**  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/leggok)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/dmytro-palianytsia-870b28217/)  
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/dima___pal/)  
+[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg)](https://t.me/dima_pal)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leggok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmytro-palianytsia-870b28217/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dima___pal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/dima_pal)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leggok)](https://github.com/anuraghazra/github-readme-stats)
+#### **GitHub Stats**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leggok&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leggok&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leggok&show_icons=true&count_private=true)  
+---
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leggok&theme=vue&custom_title=I'm%20ashamed,%20but%20it's%20because%20I'm%20forced%20to%20use%20BitBucket%20at%20work&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leggok&theme=vue&custom_title=Exploring%20projects%20that%20ignite%20my%20curiosity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
