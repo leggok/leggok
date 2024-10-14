@@ -10,7 +10,7 @@ Vue.js | Nuxt.js | JavaScript | Node.js + Express.js
 - 📫 **How to reach me**: [dmytro.pal.work@gmail.com](mailto:dmytro.pal.work@gmail.com)
 
 #### **Find me on**  
-[<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/leggok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmytro-palianytsia-870b28217/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dima___pal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/dima_pal)  
+[<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/leggok)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmytro-palianytsia-870b28217/)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dima___pal/)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg' alt='telegram' height='40'>](https://t.me/dima_pal)  
 
 ---
 
