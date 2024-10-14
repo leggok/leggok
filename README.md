@@ -11,13 +11,3 @@ Vue.js | Nuxt.js | JavaScript | Node.js + Express.js
 
 #### **Find me on**  
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/leggok)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmytro-palianytsia-870b28217/)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dima___pal/)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg' alt='telegram' height='40'>](https://t.me/dima_pal)  
-
----
-
-#### **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leggok&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leggok&show_icons=true&count_private=true)  
-
----
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leggok&theme=vue&custom_title=Exploring%20projects%20that%20ignite%20my%20curiosity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
