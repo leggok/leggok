@@ -3,7 +3,7 @@
 I'm a front-end developer specializing in Vue, Nuxt, and WordPress, with experience in Node.js and MongoDB. I build responsive, SEO-optimized websites, custom admin dashboards, and data-driven platforms with advanced user management systems. Additionally, I handle complex API integrations. This is my personal GitHub account where I dive into projects that inspire me and spark my curiosity.
 
 #### **Skills**  
-Vue.js | Nuxt.js | JavaScript | Node.js + Express.js
+Vue.js | Nuxt.js | JavaScript | Node.js + Express.js | MongoDB | PostgreSQL
 
 - 🔭 **Currently working on**: A personal project with Vue.js and Nuxt.js on the client side, and Node.js, Express.js, MongoDB, and APIs on the server side.  
 - 🌱 **Currently learning**: Deepening my understanding of TypeScript and enhancing my Node.js expertise.  
@@ -22,6 +22,7 @@ Vue.js | Nuxt.js | JavaScript | Node.js + Express.js
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
