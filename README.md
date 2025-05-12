@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Dmytro  
-#### A Front-end Developer Exploring the Back-end World 🤫  
-I'm a front-end developer specializing in Vue, Nuxt, and WordPress, with experience in Node.js and MongoDB. I build responsive, SEO-optimized websites, custom admin dashboards, and data-driven platforms with advanced user management systems. Additionally, I handle complex API integrations. This is my personal GitHub account where I dive into projects that inspire me and spark my curiosity.
+#### A Full-stack Developer Growing Between Front-end and Back-end 🌱  
+I'm a full-stack web developer working primarily with Vue, Nuxt, and TypeScript on the front end, and Node.js, Express, and PostgreSQL on the back end. Lately, I’ve been diving deeper into NestJS to build more structured and scalable server-side applications. I focus on creating responsive, SEO-friendly interfaces and building reliable, data-driven platforms with custom API integrations and user management. This is my personal GitHub account where I explore technologies and ideas that help me grow.
 
 #### **Skills**  
-Vue.js | Nuxt.js | JavaScript | Node.js + Express.js | MongoDB | PostgreSQL
+Vue.js | Nuxt.js | TypeScript | JavaScript | Node.js + Express.js | NestJS | PostgreSQL | MongoDB | REST APIs
 
-- 🔭 **Currently working on**: A personal project with Vue.js and Nuxt.js on the client side, and Node.js, Express.js, MongoDB, and APIs on the server side.  
-- 🌱 **Currently learning**: Deepening my understanding of TypeScript and enhancing my Node.js expertise.  
+- 🔭 **Currently working on**: A personal project with Vue.js on the client side, and Node.js, Nest.js, PostgreSQL on the server side.  
+- 🌱 **Currently learning**: Improving backend architecture with NestJS and expanding my TypeScript skills.  
 - 📫 **How to reach me**: [dmytro.pal.work@gmail.com](mailto:dmytro.pal.work@gmail.com)
 
 #### **Find me on**  
